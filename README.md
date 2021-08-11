@@ -34,8 +34,8 @@
 
   <div style="display: inline"><br/><br/><br>
   <a href="https://allmylinks.com/caiqueh?ref=100tj">
-  <img height="132" src="https://github-readme-stats.vercel.app/api?username=caahhh&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4"/>
-  <img height="132" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahhh&layout=compact&langs_count=7$&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4&locale=pt-br"/>
+  <img height="133" src="https://github-readme-stats.vercel.app/api?username=caahhh&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4"/>
+  <img height="133" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahhh&layout=compact&langs_count=7$&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4&locale=pt-br"/>
 </div>
 <div align="center">
   <div><br>
