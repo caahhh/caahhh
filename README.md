@@ -1,14 +1,14 @@
 <h1 align="center">☺ | 𝐵𝑒𝓂-𝒱𝒾𝓃𝒹𝑜𝓈 𝒶𝑜 𝑀𝑒𝓊 𝒫𝑒𝓇𝒻𝒾𝓁 | ☺</h1>
 
 <div align="center">
-   <a href="https://twitter.com/__Caiqueh"/><img center height="32" src="https://i.imgur.com/SbK6T77.png"/>
-   <a href="https://open.spotify.com/user/8lxr32ss4efeuflvo4kmjcq6y?si=c84e6ac74eaf4832"/><img center height="32" src="https://i.imgur.com/LpfADDu.png"/>
-   <a href="https://www.instagram.com/_caiqueh/"/><img center height="32" src="https://i.imgur.com/3e9qZ0O.png"/>
-   <a href="https://www.youtube.com/channel/UCJHeEvo1o6qn3oeaRTCEJkw"/><img center height="32" src="https://i.imgur.com/kjkM0Pc.png"/>
-   <a href="mailto:caiquetg@gmail.com"/><img center height="32" src="https://i.imgur.com/HYiEKRY.png"/>
-   <a href="https://www.twitch.tv/ocaiqueh"/><img center height="32" src="https://i.imgur.com/hTItFKI.png"/>
-   <a href="https://allmylinks.com/caiqueh?ref=100tj"/><img center height="32" src="https://i.imgur.com/BrmcvvP.png"/>
-   <a href="https://discordhub.com/profile/692893042054660106"/><img center height="32" src="https://i.imgur.com/XeQr6dX.png"/>
+   <a href="https://twitter.com/__Caiqueh"/><img center height="32" src="https://i.imgur.com/SbK6T77.png"/></a>
+   <a href="https://open.spotify.com/user/8lxr32ss4efeuflvo4kmjcq6y?si=c84e6ac74eaf4832"/><img center height="32" src="https://i.imgur.com/LpfADDu.png"/></a>
+   <a href="https://www.instagram.com/_caiqueh/"/><img center height="32" src="https://i.imgur.com/3e9qZ0O.png"/></a>
+   <a href="https://www.youtube.com/channel/UCJHeEvo1o6qn3oeaRTCEJkw"/><img center height="32" src="https://i.imgur.com/kjkM0Pc.png"/></a>
+   <a href="mailto:caiquetg@gmail.com"/><img center height="32" src="https://i.imgur.com/HYiEKRY.png"/></a>
+   <a href="https://www.twitch.tv/ocaiqueh"/><img center height="32" src="https://i.imgur.com/hTItFKI.png"/></a>
+   <a href="https://allmylinks.com/caiqueh?ref=100tj"/><img center height="32" src="https://i.imgur.com/BrmcvvP.png"/></a>
+   <a href="https://discordhub.com/profile/692893042054660106"/><img center height="32" src="https://i.imgur.com/XeQr6dX.png"/></a>
   <br>
    <img src="https://tenor.com/view/rin-shima-yuru-camp-anime-sips-tea-cold-gif-12003918.gif">
 </div>
@@ -18,7 +18,7 @@
 <ul>
   <li><b>Nome:</b> Caíque Gonçalves</li>
   <li><b>Idade:</b> 18 anos</li>
-  <li><b>Professora:</b> @rosangelalves</li>
+  <li><b>Professora:</b> <a href="https://github.com/rosangelalves">Rosangela Alves</a></li>
   <li><b>4º ano</b></li>
   <li>Estudando <b>Java</b> através do programa Edutech-PR | Alura</li>
   <li>Iniciando no mundo da programação 🖥
