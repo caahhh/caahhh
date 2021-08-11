@@ -34,7 +34,7 @@
 
 <h2 style="font-size: 30px">🎶 | 𝒩𝑜𝓌 𝒫𝓁𝒶𝓎𝒾𝓃𝑔 | 🎶</h2>
 
-<img style="display: inline" width="35%" src="https://media.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8lxr32ss4efeuflvo4kmjcq6y&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8lxr32ss4efeuflvo4kmjcq6y&redirect=true)
+<a href="https://github.com/caahhh"><img style="display: inline" width="35%" src="https://media.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif"></a>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8lxr32ss4efeuflvo4kmjcq6y&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8lxr32ss4efeuflvo4kmjcq6y&redirect=true)
 
    
 <h1><h1>
