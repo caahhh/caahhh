@@ -32,7 +32,7 @@
 <p align="center"><a href="https://twitter.com/__Caiqueh" target="_blank"><img alt="caique_twitter" src="https://img.shields.io/badge/__Caiqueh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discordhub.com/profile/692893042054660106" target="_blank"><img alt="caique_discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/ocaiqueh" target="_blank"><img alt="caique_twitch" src="https://img.shields.io/badge/ocaiqueh%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p><br><br><br><br><br><h1></h1>
 
-  <div style="display: inline-block"><br/><br/><br>
+  <div style="display: inline-block" align="left"><br/><br/><br>
   <a href="https://allmylinks.com/caiqueh?ref=100tj">
   <img style="display: inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=caahhh&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4"/>
   <img style="display: inline-block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahhh&layout=compact&langs_count=7$&title_color=75D4F2&text_color=fffaf0&icon_color=75D4F2&bg_color=97dec7,82bbd4,8293d4,9e82d4,c682d4&locale=pt-br"/>
