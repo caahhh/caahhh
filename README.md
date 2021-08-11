@@ -41,3 +41,5 @@
   <div><br>
   <a href="https://github.com/caahhh"><img align="center" alt="caique_JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 </div>
+     
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
