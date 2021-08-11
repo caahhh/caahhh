@@ -42,4 +42,4 @@
   <a href="https://github.com/caahhh"><img align="center" alt="caique_JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 </div>
      
-[![Spotify](https://8lxr32ss4efeuflvo4kmjcq6y.vercel.app/api/spotify)](https://open.spotify.com/user/8lxr32ss4efeuflvo4kmjcq6y)
+[![Spotify](https://caahhh.vercel.app/api/spotify)](https://open.spotify.com/user/8lxr32ss4efeuflvo4kmjcq6y)
